@@ -349,6 +349,7 @@ iframe {
   background: var(--text--color);
   border-radius: 15px;
   padding: 1.5rem;
+  margin-bottom: 4rem;
 }
 .box__header img {
   max-width: 300px;
@@ -393,7 +394,7 @@ iframe {
   color: #fff;
 }
 .shade-2 {
-  background: var(--primary-color);
+  background: var(--secondary-color);
 }
 @media screen and (min-width: 992px) {
   .solutions-1 {
@@ -538,6 +539,7 @@ input::placeholder {
   position: relative;
   max-width: 290px;
   margin: auto;
+  margin-bottom: 4rem;
 }
 .project img {
   height: 330px;
